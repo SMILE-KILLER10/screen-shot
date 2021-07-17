@@ -103,12 +103,14 @@ In bot settings.
 * `Sample Video Duration` - Sample video's duration. Any of `30s`, `60s`, `90s`, `120s`, `150s`. Defaults to `30s`.
 * `Screenshot Genetation Mode` - Either `random` or `equally spaced`. Defaults to `equally spaced`.
 
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SMILE-KILLER10/screen-shot)
 
 ## Contributions
 Contributions are welcome.
 
 ## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
+You can contact me [@smile_killer_010](https://t.me/smile_killer_010).
 
 ## Thanks
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
